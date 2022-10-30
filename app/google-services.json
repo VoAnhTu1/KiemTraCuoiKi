@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520228852028",
+    "firebase_url": "https://voanhtu-de0be-default-rtdb.firebaseio.com",
+    "project_id": "voanhtu-de0be",
+    "storage_bucket": "voanhtu-de0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520228852028:android:d599548a44e2fdb2b40e39",
+        "android_client_info": {
+          "package_name": "com.example.profileth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520228852028-41es47tpmah3mi4dnq33runb7ukoucdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMxxqC3Q34a0aOoykCG0ryYdZRudGGeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520228852028-41es47tpmah3mi4dnq33runb7ukoucdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
